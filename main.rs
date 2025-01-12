@@ -1,3 +1,5 @@
+// main init file for the shell
+
 mod shell;
 use shell::mainShell;
 use std::process::exit;
