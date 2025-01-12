@@ -1,3 +1,5 @@
+// testing version of the shell, will get updated soon
+
 use std::io::{self, Write};
 use std::process::exit;
 use reqwest::blocking::get;
